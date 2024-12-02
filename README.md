@@ -1,2 +1,2 @@
-# Alien_Invasion
+# Alien Invasion
 A game developed using pygame library in Python.
